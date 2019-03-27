@@ -29,7 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/NewScene 1.unity
     guid: d977e4100360caa44b59a6438169b497
-  - enabled: 1
+  - enabled: 0
     path: Assets/2DGamekit/Scenes/NewScene Copy.unity
     guid: 620ab20200bd6f642b9f9a8d81c936a6
   m_configObjects: {}
